@@ -129,3 +129,6 @@ cython_debug/
 
 # IDEA
 .idea/
+
+# Plotting output
+plot.png
